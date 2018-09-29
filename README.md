@@ -40,3 +40,10 @@ login
 #get git status again
 git status
 
+#to update across machine's git and github
+git push <url>
+login
+
+#to pull stuff from github
+git pull <url>
+
