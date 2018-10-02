@@ -47,3 +47,15 @@ login
 #to pull stuff from github
 git pull <url>
 
+#check git branch currently on
+git branch
+
+#add git branch
+git branch <branch name>
+
+#change to a different branch
+git checkout <branch name>
+
+#from there, jsut push to that branch
+#git push <url>
+login

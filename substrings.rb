@@ -4,6 +4,8 @@ require'pry'
 def substrings(word, dictionary)
     word = word.downcase.split(" ")
     
+    
+    
 #create a hash and store each word and its count in it
 final_hash = Hash.new
 
